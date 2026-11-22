@@ -2,7 +2,7 @@
 
 **Bounded agent skills for planning, executing, documenting, and presenting computational geoscience research.**
 
-Author: Sukun Cheng ([@Sukun](https://github.com/Sukun))
+Author: Sukun Cheng ([@Sukun](https://github.com/Sukun)) · [中文说明](README.zh-CN.md)
 
 The skills target Python/xarray/NetCDF research projects and work in Claude Code, Codex, and
 compatible VS Code agent-skill installations. Each skill is a folder with a `SKILL.md`, invoked as `/<skill-name>`.
